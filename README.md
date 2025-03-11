@@ -1,5 +1,5 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Alexander, and I have a passion for programming.
-========================================================================================================================================================================
+Hi 👋 My name is Alexander, and I have a passion for programming.
+=================================================================
 
 I'm currently learning JavaScript and React.js, with a strong interest in front-end development. 🚀 Exploring new technologies and working on my first projects. 🎨 I also have experience working with vector graphics in Adobe Illustrator and Photoshop. 📚 Always eager to learn and improve my skills in both coding and design. Feel free to check out my repositories and connect with me!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
