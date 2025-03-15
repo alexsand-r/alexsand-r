@@ -21,12 +21,11 @@ I'm currently learning JavaScript and React.js, with a strong interest in front-
 
 <a href="http://www.github.com/alexsand-r"><img src="https://github-readme-stats.vercel.app/api?username=alexsand-r&show_icons=true&hide=prs,&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="alexsand-r's GitHub stats" /></a>
 
-    <table>
-      <tr>
-        <td width="50%" bgcolor="red"></td>
-      </tr>
-      <tr>
-        <td width="50%" bgcolor="lightgreen"></td>
-      </tr>
-    </table>
+<table>
+  <tr>
+    <td width="50%"></td>
+    <td width="50%">Зеленая колонка</td>
+  </tr>
+</table>
+
 
