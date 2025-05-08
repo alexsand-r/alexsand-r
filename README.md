@@ -23,6 +23,8 @@ I'm currently learning JavaScript and React.js, with a strong interest in front-
   </a>
   <a href="https://reactjs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills
+    </a>
+      </p>
 
 
 ### Socials
