@@ -1,7 +1,8 @@
-Hi 👋 My name is Oleksandr, and I have a passion for programming.
+Hi 👋 I'm Oleksandr, a Frontend Developer focused on building responsive web applications and clean user interfaces..
 =================================================================
 
-I'm currently learning JavaScript and React.js, with a strong interest in front-end development. 🚀 Exploring new technologies and working on my first projects. 🎨 I also have experience working with vector graphics in Adobe Illustrator and Photoshop. 📚 Always eager to learn and improve my skills in both coding and design. Feel free to check out my repositories and connect with me!
+My core stack includes HTML5, CSS3/Sass/SCSS, BEM, JavaScript, TypeScript, React, Redux Toolkit, and Tailwind CSS. I also use AI coding assistants in my workflow and enjoy turning UI ideas into reliable, working products.
+Feel free to explore my repositories and connect with me!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 * ✉️  You can contact me at [1inboxna@gmail.com](mailto:1inboxna@gmail.com)
