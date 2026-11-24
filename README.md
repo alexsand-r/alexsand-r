@@ -1,4 +1,4 @@
-Hi 👋 I'm Oleksandr, a Frontend Developer focused on building responsive web applications and clean user interfaces..
+Hi 👋 I'm Oleksandr, a Frontend Developer focused on building responsive web applications and clean user interfaces.
 =================================================================
 
 My core stack includes HTML5, CSS3/Sass/SCSS, BEM, JavaScript, TypeScript, React, Redux Toolkit, and Tailwind CSS. I also use AI coding assistants in my workflow and enjoy turning UI ideas into reliable, working products.
