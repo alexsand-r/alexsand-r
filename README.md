@@ -5,7 +5,7 @@ My core stack includes HTML5, CSS3/Sass/SCSS, BEM, JavaScript, TypeScript, React
 Feel free to explore my repositories and connect with me!
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-* ✉️  You can contact me at [1inboxna@gmail.com](mailto:1inboxna@gmail.com)
+* ✉️ You can contact me at [oleksandr.zui.dev@gmail.com](mailto:oleksandr.zui.dev@gmail.com)
 
 ### Skills
 
